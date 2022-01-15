@@ -117,6 +117,12 @@ border-radius: 5px;
     display: flex;
     align-items: center;
 }
+.seemore{
+    text-decoration: none;
+    color: #E02C6D;
+  /* margin-top: 1000; */
+    margin-left: 895px;
+}
 /* signup part */
 .signup-section{
     display: flex;
