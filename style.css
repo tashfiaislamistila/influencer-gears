@@ -5,6 +5,7 @@
     margin: 0;
     padding: 0;
 }
+/* for menu */
 /* nav start */
 nav {
     display: flex;
@@ -24,7 +25,43 @@ nav a{
     color: black;
     margin-left: 10px;
 }
-
-
-
+/* for top part */
+.top-part{
+    display:flex ;
+}
+.start{
+    margin-bottom:-35px;
+}
+.journey{
+font-size: x-large;
+color: #3A3A3A;
+font-weight: bold;
+}
+.half-width{
+    width:50%;
+    padding-left:5%;
+}
+.half-width img{
+    width: 80%;
+}
+.paragraph{
+font-size: 10px;
+font-weight: 600;
+color: #3A3A3A;
+margin-top: -20px;
+}
+/* button */
+.button{
+    margin-top:25px;
+}
+.preebook-button{
+ text-decoration: none;
+ background-color:#E02C6D;
+color: white;
+border-radius:41px ;
+padding:5px 40px;
+}
+.button :hover{
+    color: black;
+}
 
