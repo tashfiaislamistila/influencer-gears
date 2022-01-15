@@ -120,9 +120,14 @@ border-radius: 5px;
 .seemore{
     text-decoration: none;
     color: #E02C6D;
-  /* margin-top: 1000; */
-    margin-left: 1150px;
+ 
 }
+    .see-more{
+text-align: right;
+margin-right: 100px;
+margin-top: 10px;
+    }
+
 /* signup part */
 .signup-section{
     display: flex;
